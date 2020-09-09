@@ -1,0 +1,8 @@
+{
+    "basePageUrl": "https://www.microsoft.com/en-us/",
+    "menuItems": ["Office", "Windows","Surface","Xbox","Deals", "Support"],
+    "searchProduct" : "Visual Studio",
+    "clickOnMenu" : "Windows",
+    "printSearchProductNumber" : 3
+
+}
